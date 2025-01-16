@@ -10,6 +10,6 @@ Visualization: Visualizations, such as pair plots and heatmaps, are used to bett
 This project is great for beginners as it covers essential steps in data preprocessing, model training, evaluation, and visualization using Python.
 
 Tools Used:
-Pandas for data manipulation
+Pandas for data manipulation,
 Scikit-learn for building the model and scaling the features
 Seaborn and Matplotlib for visualizations
